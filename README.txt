@@ -1,6 +1,6 @@
 1 - Sobre
 
-- Este sistema permite gerenciar grafos,utilizar algoritmos de busca de caminhos e visualização básica do mesmo.
+- Este sistema permite gerenciar grafos,utilizar algoritmos como Plim e Dijkstra de caminhos e visualização básica do mesmo.
 - Testado em no sistema operacional Windows 10 x64 bits.
 
 Java utilizado:
