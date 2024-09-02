@@ -1,8 +1,6 @@
 1 - Sobre
 
 - Este sistema permite gerenciar grafos,utilizar algoritmos de busca de caminhos e visualização básica do mesmo.
-- Apenas valores numéricos são validos como valores de entrada para o sistema.
-- Valores inválidos como letras ou símbolos não são suportados e portanto impedirão o funcionamento correto do sistema.
 - Testado em no sistema operacional Windows 10 x64 bits.
 
 Java utilizado:
@@ -19,3 +17,8 @@ Método 1 via CMD:
 Método 2 via IntellijIdea:
 - Importar o projeto "SistemaGrafos Project"
 - Fazer o build e iniciar o Main
+
+3 - Avisos!!!
+- As opções 9 e 10 ainda não estão funcionando.
+- Apenas valores numéricos são validos como valores de entrada para o sistema.
+- Valores inválidos como letras ou símbolos não são suportados e portanto impedirão o funcionamento correto do sistema.
