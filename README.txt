@@ -19,6 +19,5 @@ Método 2 via IntellijIdea:
 - Fazer o build e iniciar o Main
 
 3 - Avisos!!!
-- As opções 9 e 10 ainda não estão funcionando.
 - Apenas valores numéricos são validos como valores de entrada para o sistema.
 - Valores inválidos como letras ou símbolos não são suportados e portanto impedirão o funcionamento correto do sistema.
